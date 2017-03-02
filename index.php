@@ -15,10 +15,12 @@ $result = mysqli_query($conn, $query);
             {
                 border-color: red;
             }
-            i,th{
+            i,th
+            {
                 color:#5cb85c;
             }
-            .btn-group button{
+            .btn-group button
+            {
                 margin:2px;
             }
         </style>
